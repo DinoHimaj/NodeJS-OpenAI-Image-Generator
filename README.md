@@ -25,3 +25,5 @@ npm start
 Visit `http://localhost:5000` in your browser.
 
 The endpoint is at `POST http://localhost:5000/openai/generateimage`.
+
+I deployed this website with Heroku. You can check it out here `https://dino-openai-image-generator.herokuapp.com/`
